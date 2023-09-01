@@ -1,0 +1,1 @@
+MÃ XÁc nhận tài khoản của bạn là {code}
